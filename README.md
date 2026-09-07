@@ -1,1 +1,1 @@
-# organic-farm-site
+# Goroka Secondary School Website
